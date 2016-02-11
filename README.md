@@ -7,9 +7,7 @@ The meetup takes place Wednesday nights (starting back up on Wednesday February 
 
 Plans for this repo are:
 
-1. Update with algorithm problems previously covered in class
-1. Update to reflect new agenda(s) and plans related to the meetup 
-1. Disseminate information on events participants may find interesting and resources they may find helpful
+Update with resources for students, including outside links, algorithm problems previously covered in class, and events participants may find interesting.
 
 Participants should feel free to ask questions by opening an issue. Feel free to also request changes by forking the repo and making pull requests.
 
