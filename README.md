@@ -1,7 +1,7 @@
 # WomenWhoCode
 Plans and Tools for WWC's Bay Area Meetup
 
-This repository has been created to track and plan the activities of the [Women Who Code Bay Area Meetup](http://www.meetup.com/Women-Who-Code-East-Bay/).
+This repository has been created to track and plan the activities of the [Algorithms and Interview Prep Meetup for Women Who Code Bay Area Meetup](http://www.meetup.com/Women-Who-Code-East-Bay/).
 
 The meetup takes place Wednesday nights at 1600 Shattuck Ave, Berkeley, CA and focuses on <b>Algorithms and Interview Prep</b>.
 
