@@ -1,0 +1,14 @@
+February 10, 2016
+
+Write a function that takes in a string 
+of letters and sorts the characters in that string alphabetically.
+Assume all characters are lowercase. 
+For example for the input 'superbowl', this function 
+should return 'beloprsuw'.
+
+Given an integer as input, write a function tests whether or 
+not that integer is prime. The function should output true or 
+false
+
+Given a roman numeral as input, write a function that 
+converts the roman numeral to a number and outputs it.
