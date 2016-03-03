@@ -1,14 +1,34 @@
 February 10, 2016
 
-Write a function that takes in a string 
+#1 Write a function that takes in a string 
 of letters and sorts the characters in that string alphabetically.
 Assume all characters are lowercase. 
 For example for the input 'superbowl', this function 
 should return 'beloprsuw'.
 
-Given an integer as input, write a function tests whether or 
+#2 Given an integer as input, write a function tests whether or 
 not that integer is prime. The function should output true or 
 false
 
-Given a roman numeral as input, write a function that 
+#3 Given a roman numeral as input, write a function that 
 converts the roman numeral to a number and outputs it.
+
+February 24, 2016
+
+#4 Given a string, find the first non-repeating character in it. 
+For example, if the input string is “WomenWhoCode”, 
+then output should be ‘m’ and if input string is “TelegraphAcademy”, then output should be ‘T’.
+
+#5 Create a function that takes in a string and can determine whether or not it contains balanced 
+parentheses and brackets.  For instance, '{}' and '[]' will return true while '{' and '[[]' will return false.
+
+#6 Write a function that takes in an "n x n" matrix and returns a list containing the matrix's nested contents.
+
+#7 Sorted Merge: You are given two sorted lists (arrays), A and B. List A has a large enough buffer 
+at the end to hold B. Write a method to merge B into A in a sorted order.
+
+#8 Anagram Plus: Write a function that takes in a string and returns a list all possible 
+combination of the letters. For example: for the input 'car', the function would return 
+['acr', 'arc', 'car', 'cra', 'rac', 'rca']
+
+Extra credit: Account for duplicate letters. For example: for the input 'all', the function would return ['all', 'lal', 'lla']
