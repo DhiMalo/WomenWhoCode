@@ -1,14 +1,14 @@
-#Time Complexity
+# Time Complexity
 
-##Introduction
+## Introduction
 In computer science, the time complexity of an algorithm quantifies the amount of time taken by an algorithm to run as a function of the length of the string representing the input.
 
-##Big O notation
+## Big O notation
 The time complexity of an algorithm is commonly expressed using big O notation, which excludes coefficients and lower order terms. When expressed this way, the time complexity is said to be described asymptotically, i.e., as the input size goes to infinity.
 
 For example, if the time required by an algorithm on all inputs of size n is at most 5n3 + 3n, the asymptotic time complexity is O(n3). More on that later.
 
-###Examples:
+### Examples:
 
 + 1 = O(n)
 + n = O(n2)
@@ -19,7 +19,7 @@ For example, if the time required by an algorithm on all inputs of size n is at 
 
 An algorithm is said to run in constant time if it requires the same amount of time regardless of the input size.
 
-###Examples:
+### Examples:
 
 + array (list): accessing any element
 + fixed-size stack: push and pop methods
@@ -59,7 +59,7 @@ Another analogy: Consider how you search a phone book: You can split the problem
 ## O(n2) Quadratic Time
 An algorithm is said to run in quadratic time if its time execution is proportional to the square of the input size.
 
-###Examples:
+### Examples:
 
 1. Bubble Sort
 1. Selection Sort
